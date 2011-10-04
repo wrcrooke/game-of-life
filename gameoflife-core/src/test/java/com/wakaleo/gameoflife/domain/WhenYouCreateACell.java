@@ -1,3 +1,6 @@
+#
+# Add some comments to trigger a build
+
 package com.wakaleo.gameoflife.domain;
 
 import static com.wakaleo.gameoflife.domain.Cell.DEAD_CELL;
